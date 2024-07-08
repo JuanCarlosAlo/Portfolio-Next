@@ -14,7 +14,7 @@ const Approach = () => {
         <Card
          title="Planning and strategy" 
          icon={<AceternityIcon order="Phase 1"/>}
-         description="description 1"
+         description="We'll work together to outline your website's objectives, identify your target audience, and define essential features. We'll go over aspects such as site layout, navigation, and content needs."
          >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -22,9 +22,9 @@ const Approach = () => {
           />
         </Card>
         <Card 
-        title="Nisha is Munni" 
+        title="Development & Progress Update" 
         icon={<AceternityIcon order="Phase 2"/>}
-        description="description 2">
+        description="After finalizing the plan, I start coding with my favorite lofi playlist in the background. From initial designs to finished code, I keep you informed throughout the entire process.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -38,9 +38,9 @@ const Approach = () => {
           <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" />
         </Card>
         <Card 
-        title="Munni is Aditi" 
+        title="Development & Launch" 
         icon={<AceternityIcon order="Phase 3"/>}
-        description="description 3"
+        description="This is where the magic happens! Using the approved design, I will turn it into functional code, creating your website from the ground up."
         >
           <CanvasRevealEffect
             animationSpeed={3}
