@@ -5,7 +5,7 @@ import { FaLocationArrow } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="p-0 relative h-[100vh] w-full">
+    <div className="p-0 relative h-[100vh] w-full mb-24">
       <video loop muted autoPlay className="absolute inset-0 w-full h-full object-cover z-0">
         <source src="/desktop-mk1.mp4" type="video/mp4" />
       </video>
