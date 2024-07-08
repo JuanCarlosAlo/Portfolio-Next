@@ -12,7 +12,7 @@ const Footer = () => {
         <div className='flex flex-col items-center'>
             <h2 className='heading lg:max-w-[45vw]'>Ready to take <span className='text-purple'>your</span> digital presence to the next level?</h2>
             <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and lets discuss how can I help you archive your gooals</p>
-            <a href="mailto:juancarlosam2live.com">
+            <a href="mailto:juancarlosam@live.com">
 
                 <MagicButton title="Let's get in touch" 
                 icon={<FaLocationArrow/>}
