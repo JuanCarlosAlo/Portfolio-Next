@@ -28,7 +28,8 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
             
             />
-            <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I'm J.C.A.M a React.js Developer</p>
+            <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">Hi, I&apos;m J.C.A.M a React.js Developer</p>
+
 
             <a href="#about">
                 <MagicButton title="Show my work" icon={<FaLocationArrow/>} position="right"/>
