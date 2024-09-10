@@ -107,7 +107,7 @@ export const navItems = [
       title: "Apple web",
       des: "Apple web designe with a carrousel of videos and a 3d model viewer of the Iphone 15 pro",
       img: "/p5.svg",
-      iconLists: ["/re.svg", "/js.svg", "/gsap.svg" , "/three.js"],
+      iconLists: ["/re.svg", "/js.svg", "/gsap.svg" , "/three.svg"],
       link: "https://github.com/JuanCarlosAlo/Apple-web",
     }
   ];
